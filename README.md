@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+# 严雨涛
 
-You can use the [editor on GitHub](https://github.com/kuunnss/resume.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# 联系方式
+- 手机：18013137620 
+- Email：799795820@qq.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+# 个人信息
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ - 男/1994 
+ - 本科/江苏科技大学/物联网工程 2013.9-2017.6
+ - 工作年限：2.5年（1年c#，1.5年c#+java）
+ - 期望职位：Java开发工程师
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+# 工作经历
 
-- Bulleted
-- List
+## 苏州食行生鲜电子商务有限公司 （ 2016年12月 ~ 现在 ）
 
-1. Numbered
-2. List
+### App 接口开发（前期接口通过c#写的，后期转成java）
+1.主要负责首页模块、用户地址模块、活动模块、结算下单模块、登录模块、验证码模块、微信模块、支付宝等模块功能设计、接口开发以及维护。
+2.协助架构工程师完成服务容器化，并将服务从物理机迁移至Kubernetes，实现服务高可用以及平滑发布等。
+3.将自己维护的大部分c#服务，用java重写。
 
-**Bold** and _Italic_ and `Code` text
+### 后台管理系统功能开发
+1.负责充值卡、会员卡等管理后台的接口开发，方便运营人员管理及使用。
 
-[Link](url) and ![Image](src)
-```
+---
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# 技能
+1.	熟悉 J2EE，具有面向对象思想，扎实的编程功底以及良好的编码习惯。
+2.  熟练使用mssql,mysql,redis等数据库
+3.  了解并使用spring boot、Mybatis,dubbo等主流开源框架。
+4.  熟练使用svn及git进行版本管理
+5.  了解docker,k8s等相关容器技术，有高并发相关处理经验
+6.  了解并使用zk进行协调服务
 
-### Jekyll Themes
+# 个人总结
+1.  积极向上，有较强的适应能力。
+2.  有团队精神和团队意识，有问题绝不推卸。
+3.  喜欢忙碌充实的工作，希望可以找一家公司一起奋斗。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kuunnss/resume.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+---
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
